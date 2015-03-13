@@ -1,0 +1,7 @@
+
+#+TITLE: www.archinst.com
+
+* License
+
+  All content in [[https://github.com/archinst/archinst.github.io][this repository]] is copyright \copy 2015 William
+  West. All rights reserved.
