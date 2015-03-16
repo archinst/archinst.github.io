@@ -1,0 +1,15 @@
+#+TITLE: Architectural Instruments
+#+OPTIONS: toc:nil html-postamble:nil html-preamble:t html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+
+#+begin_logo
+[[file:aint_logo_060px.gif]]
+#+end_logo
+
+#+begin_blurb
+/Architectural Instruments/ will be launching on April 20, 2015. This
+site will be dedicated to the study of unsolved problems at the
+intersection of architecture, building culture, and computing.
+
+For further information contact [[https://www.linkedin.com/in/occidens][William West]] at [[mailto:wm@archinst.com][wm@archinst.com]].
+#+end_blurb
