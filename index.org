@@ -11,5 +11,5 @@
 site will be dedicated to the study of unsolved problems at the
 intersection of architecture, building culture, and computing.
 
-For further information contact [[https://www.linkedin.com/in/occidens][William West]] at [[mailto:wm@archinst.com][wm@archinst.com]].
+For further information contact [[https://www.linkedin.com/in/occidens][William West]] at [[mailto:wm@archinst.com][wm@archinst.com]] ([[https://raw.githubusercontent.com/occidens/pubkeys/master/0xCFC0CB3D.asc][PGP key]]).
 #+end_blurb
